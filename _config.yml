@@ -30,8 +30,8 @@ gems:
   - jekyll-feed
   - jemoji
 
-  defaults:
-      - {scope: {type: posts}, values: {layout: post, permalink: '/blog/:title'}}
+defaults:
+    - {scope: {type: posts}, values: {layout: post, permalink: '/blog/:title'}}
 
 include:
   - _pages
