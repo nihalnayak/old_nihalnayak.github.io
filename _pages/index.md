@@ -2,11 +2,24 @@
 layout: default
 avatar: true
 permalink: /
----
-## 🚀 Hello World
-You can use this page to showcase your work, portfolio/project, your Latest post {% for post in site.posts limit: 1 %}<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>{% endfor %} or another stuff that you love to share to the world.
-
+navigation: false
 ---
 
-## 🅿️ Edit This Page
-You’ll find this page in your `_pages` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I'm Nihal ! I'm a Project Intern at DESE (Formerly CEDT), [IISc](http://www.iisc.ac.in/) under Prof. H S Jamadagni. I also worked as a summer intern at [Stride.AI](stride.ai). Currently, trying to solve problems in Education, using Natural Language Processing.
+
+Feel free to get in touch with me. 
+
+[CV](assets/cv.pdf)
+
+[Behance](https://www.behance.net/nihalnayak7f59)
+
+[Github](https://github.com/iampuntre)
+
+Email : nihalnayak [a] gmail [dot] com
+
+<!-- You can use this page to showcase your work, portfolio/project, your Latest post {% for post in site.posts limit: 1 %}<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>{% endfor %} or another stuff that you love to share to the world. -->
+
+<!-- --- -->
+
+<!-- ## 🅿️ Edit This Page
+You’ll find this page in your `_pages` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. -->
