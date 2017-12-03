@@ -5,8 +5,12 @@ permalink: /
 navigation: false
 ---
 
-I'm Nihal ! I'm a Project Intern at DESE (Formerly CEDT), [IISc](http://www.iisc.ac.in/) under Prof. H S Jamadagni. I also worked as a summer intern at [Stride.AI](stride.ai). Currently, trying to solve problems in Education, using Natural Language Processing.
+Hi, I'm Nihal Nayak. I work as a NLP Engineer at [Stride.AI](stride.ai). 
 
+My research interests are Natural Language Processing and Education. I have previously worked with Prof. H S Jamadgani at Indian Institute of Science ([IISc](http://www.iisc.ac.in/)) as an Intern and then briefly as a Project Assistant.
+
+<!-- I'm a Project Intern at DESE (Formerly CEDT), [IISc](http://www.iisc.ac.in/) under Prof. H S Jamadagni. I also worked as a summer intern at [Stride.AI](stride.ai). Currently, trying to solve problems in Education, using Natural Language Processing.
+ -->
 Feel free to get in touch with me. 
 
 [CV](assets/cv.pdf)
