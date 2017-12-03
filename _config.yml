@@ -1,7 +1,7 @@
 # Site settings
 title: Nihal Nayak
 email: nihalnayak@gmail.com
-description: "Hi, I'm Nihal Nayak. I work as a NLP Engineer at Stride.AI. My research interests are Natural Language Processing and Education. I have previously worked with Prof. H S Jamadgani at Indian Institute of Science (IISc) as an Intern and then briefly as a Project Assistant. " # this means to ignore newlines until "baseurl:"
+description: "" # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
 url: "http://iampuntre.github.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
