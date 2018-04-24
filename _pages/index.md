@@ -7,13 +7,20 @@ navigation: false
 
 Hi, I'm Nihal Nayak. I work as a NLP Engineer at [Stride.AI](stride.ai). 
 
-My research interests are Natural Language Processing and Education. I have previously worked with Prof. H S Jamadgani at Indian Institute of Science ([IISc](http://www.iisc.ac.in/)) as an Intern and then briefly as a Project Assistant.
+My research interests are:
+
+- Language Learning: I like to understand how people learn new vocabulary or language through tools.
+
+- Natural Language Processing: I build algorithms and probablistic models to extract useful insights from unstructured data.  
+
+
+I have previously worked with Prof. H S Jamadgani at Indian Institute of Science ([IISc](http://www.iisc.ac.in/)) as an Intern and then briefly as a Project Assistant.
 
 <!-- I'm a Project Intern at DESE (Formerly CEDT), [IISc](http://www.iisc.ac.in/) under Prof. H S Jamadagni. I also worked as a summer intern at [Stride.AI](stride.ai). Currently, trying to solve problems in Education, using Natural Language Processing.
  -->
 Feel free to get in touch with me. 
 
-[CV](assets/cv.pdf)
+[CV](assets/cv.pdf) (Updated in Jan, 2018)
 
 [Behance](https://www.behance.net/nihalnayak7f59)
 

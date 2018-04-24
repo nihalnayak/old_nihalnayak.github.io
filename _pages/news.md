@@ -10,6 +10,8 @@ navigation: true
 
 <!-- - August 28, 2017: Conducted a tutorial on Sentiment Analysis on twitter data as a part of Data Analytics Workshop [\[Code\]](https://github.com/iampuntre/twitterAnalytics) -->
 
+- March 2018: Finished 9th in the SLAM(Second Language Acquisition Modeling) 2018 shared task. Our system paper will be published in [BEA13](https://www.cs.rochester.edu/~tetreaul/naacl-bea13.html) at NAACL-HLT 2018
+
 - November 15, 2017: I joined [Stride.AI](https://stride.ai) as a NLP Engineer. Previously I worked with Prof. H S Jamadagni as an Intern during my bachelors and briefly as a Project Assistant after graduating, at Indian Institute of Science.
 
 <!-- - November 14, 2017: Continued to work with Prof. H S Jamadagni as a Project Assistant. -->
