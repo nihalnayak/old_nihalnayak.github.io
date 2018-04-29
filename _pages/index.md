@@ -20,7 +20,7 @@ I have previously worked with Prof. H S Jamadgani at Indian Institute of Science
  -->
 Feel free to get in touch with me. 
 
-[CV](assets/cv.pdf) (Updated in Jan, 2018)
+[CV](assets/cv.pdf) (Updated in April, 2018)
 
 [Behance](https://www.behance.net/nihalnayak7f59)
 
