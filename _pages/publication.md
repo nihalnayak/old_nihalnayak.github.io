@@ -7,7 +7,7 @@ navigation: true
 ---
 
 ## Publication
-Updated on 25th of April, 2018.
+Updated in June 2018.
 
 ### 2018
 - **Nihal V. Nayak** and Arjun R. Rao. **Context based approach for second language acquisition.** *In Proceedings of the NAACL-HLT Workshop on Innovative Use of NLP for Building Educational Applications (BEA), New Orleans, USA.*[\[PDF\]](http://www.aclweb.org/anthology/W18-0524) [\[BibTex\]](http://www.aclweb.org/anthology/W18-0524.bib)
