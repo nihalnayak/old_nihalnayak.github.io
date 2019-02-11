@@ -5,17 +5,17 @@ permalink: /
 navigation: false
 ---
 
-Hi, I'm Nihal Nayak. I work as a NLP Engineer at [Stride.AI](stride.ai). I contribute to the NLP research at Stride.AI.
+Hi, I'm Nihal Nayak.
 
-I have previously worked with Prof. H S Jamadgani at Indian Institute of Science ([IISc](http://www.iisc.ac.in/)) as an Intern and then briefly as a Project Assistant.
+I work as a NLP Engineer at [Stride.AI](stride.ai). I have previously worked with Prof. H S Jamadgani at Indian Institute of Science ([IISc](http://www.iisc.ac.in/)) as an Intern and then briefly as a Project Assistant.
 
 My research interests are:
 
 - Natural Language Processing: Probablistic models to extract useful entities from unstructured data (New Paper Coming Soon)
 
-- Human Language Learning: Computational techniques to model how people acquire new vocabulary in a language. [\[1\]](http://www.aclweb.org/anthology/W18-0524) [\[2\]](http://aclweb.org/anthology/P17-3005)
-
-My long-term research goal is to develop learning techniques for language-related tasks in Information Extraction, Reasoning and Language Learning.
+- Human Language Learning: Computational techniques to model how people acquire new vocabulary [\[1\]](http://www.aclweb.org/anthology/W18-0524) [\[2\]](http://aclweb.org/anthology/P17-3005)
+<!--
+My long-term research goal is to develop learning techniques for language-related tasks in Information Extraction, Reasoning and Language Learning. -->
 
 <!-- I'm a Project Intern at DESE (Formerly CEDT), [IISc](http://www.iisc.ac.in/) under Prof. H S Jamadagni. I also worked as a summer intern at [Stride.AI](stride.ai). Currently, trying to solve problems in Education, using Natural Language Processing.
  -->
