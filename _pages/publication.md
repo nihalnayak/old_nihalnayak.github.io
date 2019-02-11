@@ -7,7 +7,7 @@ navigation: true
 ---
 
 ## Publication
-Updated in June 2018.
+Updated in February 2019.
 
 ### 2019
 - **Nihal V. Nayak**, Pratheek Mahishi and Sagar M. Rao. **DEXTER - Data EXTraction and Entity Recognition for Low Resource Datasets**. *2019 AAAI Spring Symposium Series, Stanford University, Palo Alto, California, USA, 2019*. (To Appear)
