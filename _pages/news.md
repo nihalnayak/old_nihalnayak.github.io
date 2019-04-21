@@ -8,7 +8,7 @@ navigation: true
 
 ## Latest News
 
-- March 2019: Our paper **DEXTER - Data EXTraction & Entity Recognition for Low Resource Datasets** was presented at the 2019 AAAI Spring Symposium Series, Stanford University, Palo Alto, USA, 2019 ([link](https://www.aaai-make.info/)). [View PDF](assets/papers/2019/dexter_aaai_make.pdf)
+- March 2019: Our paper **DEXTER - Data EXTraction & Entity Recognition for Low Resource Datasets** was presented at the 2019 AAAI Spring Symposium Series, Stanford University, Palo Alto, USA, 2019 ([link](https://www.aaai-make.info/)). [View PDF](/assets/papers/2019/dexter_aaai_make.pdf)
 
 <!-- - December 2018: Our paper **DEXTER - Data EXTraction & Entity Recognition for Low Resource Datasets** has been accepted at the 2019 AAAI Spring Symposium Series, Stanford University, Palo Alto, USA, 2019 ([link](https://www.aaai-make.info/)) -->
 

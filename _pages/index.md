@@ -11,9 +11,9 @@ I work as a NLP Engineer at [Stride.AI](stride.ai). I have previously worked wit
 
 My research interests are:
 
-- Natural Language Processing: Probablistic models to extract useful entities from unstructured data (New Paper Coming Soon)
+- Natural Language Processing: Probablistic models to extract useful entities from unstructured data [1](/assets/papers/2019/dexter_aaai_make.pdf)
 
-- Human Language Learning: Computational techniques to model how people acquire new vocabulary [\[1\]](http://www.aclweb.org/anthology/W18-0524) [\[2\]](http://aclweb.org/anthology/P17-3005)
+- Human Language Learning: Computational techniques to model how people acquire new vocabulary [\[2\]](http://www.aclweb.org/anthology/W18-0524) [\[3\]](http://aclweb.org/anthology/P17-3005)
 <!--
 My long-term research goal is to develop learning techniques for language-related tasks in Information Extraction, Reasoning and Language Learning. -->
 
@@ -21,7 +21,7 @@ My long-term research goal is to develop learning techniques for language-relate
  -->
 Feel free to get in touch with me.
 
-[CV](assets/cv.pdf) (Updated in December, 2018)
+[CV](assets/cv.pdf) (Updated in April, 2019)
 
 [Behance](https://www.behance.net/nihalnayak7f59)
 
