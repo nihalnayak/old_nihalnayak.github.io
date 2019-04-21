@@ -10,8 +10,7 @@ navigation: true
 Updated in February 2019.
 
 ### 2019
-- **Nihal V. Nayak**, Pratheek Mahishi and Sagar M. Rao. **DEXTER - Data EXTraction and Entity Recognition for Low Resource Datasets**. *2019 AAAI Spring Symposium Series, Stanford University, Palo Alto, California, USA, 2019*. (To Appear)
-
+- **Nihal V. Nayak**, Pratheek Mahishi and Sagar M. Rao. **DEXTER - Data EXTraction & Entity Recognition for Low Resource Datasets**. *In Proceedings of the AAAI 2019 Spring Symposium on Combining Machine Learning with Knowledge Engineering (AAAI-MAKE 2019). Stanford University, Palo Alto, California, USA*. [\[PDF\]](assets/papers/2019/dexter_aaai_make.pdf)
 ### 2018
 - **Nihal V. Nayak** and Arjun R. Rao. **Context based approach for second language acquisition.** *In Proceedings of the NAACL-HLT Workshop on Innovative Use of NLP for Building Educational Applications (BEA), New Orleans, USA.*[\[PDF\]](http://www.aclweb.org/anthology/W18-0524) [\[BibTex\]](http://www.aclweb.org/anthology/W18-0524.bib)
 
