@@ -11,7 +11,7 @@ I work as a NLP Engineer at [Stride.AI](stride.ai). I have previously worked wit
 
 My research interests are:
 
-- Natural Language Processing: Probablistic models to extract useful entities from unstructured data [1](/assets/papers/2019/dexter_aaai_make.pdf)
+- Natural Language Processing: Probablistic models to extract useful entities from unstructured data [\[1\]](/assets/papers/2019/dexter_aaai_make.pdf)
 
 - Human Language Learning: Computational techniques to model how people acquire new vocabulary [\[2\]](http://www.aclweb.org/anthology/W18-0524) [\[3\]](http://aclweb.org/anthology/P17-3005)
 <!--
