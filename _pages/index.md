@@ -7,7 +7,9 @@ navigation: false
 
 Hi, I'm Nihal Nayak.
 
-I work as a NLP Engineer at [Stride.AI](stride.ai). I have previously worked with Prof. H S Jamadgani at Indian Institute of Science ([IISc](http://www.iisc.ac.in/)) as an Intern and then briefly as a Project Assistant.
+I am an incoming PhD Student of Computer Science at Brown University.
+
+Previously, I worked as a NLP Engineer at [Stride.AI](stride.ai). I have also worked with Prof. H S Jamadgani at Indian Institute of Science ([IISc](http://www.iisc.ac.in/)) as an Intern and then briefly as a Project Assistant.
 
 My research interests are:
 
@@ -21,7 +23,7 @@ My long-term research goal is to develop learning techniques for language-relate
  -->
 Feel free to get in touch with me.
 
-[CV](assets/cv.pdf) (Updated in April, 2019)
+[CV](assets/cv.pdf) (Updated in May, 2019)
 
 [Behance](https://www.behance.net/nihalnayak7f59)
 
