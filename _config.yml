@@ -3,13 +3,13 @@ title: Nihal Nayak
 email: nihalnayak@gmail.com
 description: "" # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
-url: "http://iampuntre.github.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  iampuntre
+url: "http://nihalnayak.github.com" # the base hostname & protocol for your site
+twitter_username: nihalnayak
+github_username:  nihalnayak
 GoogleAnalytics: UA-70793874-1
 
 twitter:
-  username: rmsubekti
+  username: nihalnayak
 facebook:
   app_id: 1234567
   publisher: 1234567
