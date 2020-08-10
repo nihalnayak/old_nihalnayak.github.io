@@ -7,23 +7,13 @@ navigation: false
 
 Hi, I'm Nihal!
 
-I am a first year PhD Student of Computer Science at Brown University. I work in the areas of Natural Language Processing and Machine Learning with [Stephen Bach](http://stephenbach.net/).
+I am a second year PhD Student of Computer Science at Brown University. I work with [Stephen Bach](http://stephenbach.net/) and my research focuses on learning with limited labeled data, knowledge graphs and graph neural networks. 
 
 Previously, I worked as a NLP Engineer at [Stride.AI](stride.ai). I have also worked with Prof. H S Jamadgani at Indian Institute of Science ([IISc](http://www.iisc.ac.in/)) as an Intern and then briefly as a Project Assistant.
 
-<!-- My research interests are:
-
-- Natural Language Processing: Probablistic models to extract useful entities from unstructured data [\[1\]](/assets/papers/2019/dexter_aaai_make.pdf)
-
-- Human Language Learning: Computational techniques to model how people acquire new vocabulary [\[2\]](http://www.aclweb.org/anthology/W18-0524) [\[3\]](http://aclweb.org/anthology/P17-3005) -->
-<!--
-My long-term research goal is to develop learning techniques for language-related tasks in Information Extraction, Reasoning and Language Learning. -->
-
-<!-- I'm a Project Intern at DESE (Formerly CEDT), [IISc](http://www.iisc.ac.in/) under Prof. H S Jamadagni. I also worked as a summer intern at [Stride.AI](stride.ai). Currently, trying to solve problems in Education, using Natural Language Processing.
- -->
 Feel free to get in touch with me.
 
-[CV](assets/cv.pdf) (Updated in May, 2019)
+[CV](assets/cv.pdf) (Updated in August, 2020)
 
 <!-- [Behance](https://www.behance.net/nihalnayak7f59) -->
 
