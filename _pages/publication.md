@@ -5,11 +5,18 @@ permalink: /publication/
 avatar: true
 navigation: true
 ---
+## Preprint
+
+- **Nihal V. Nayak** and Stephen H. Bach **Zero-Shot Learning with Common Sense Knowledge Graphs**. [\[PDF\]](https://arxiv.org/abs/2006.10713)
 
 ## Publication
-Updated in April 2019.
 
 ### 2019
+
+- Anush Kumar, **Nihal V. Nayak**, Aditya Chandra and Mydhili K. Nair Study on **Unsupervised Statistical Machine Translation for Backtranslation**. *International Conference on Recent Advances in Natural Language Processing (RANLP 2019). Varna, Bulgaria*. [\[PDF\]](https://www.aclweb.org/anthology/R19-1068.pdf)
+
+- **Nihal V. Nayak**, Pratheek Mahishi and Sagar M. Rao. **DEXTER - Data EXTraction & Entity Recognition for Low Resource Datasets**. *In Proceedings of the AAAI 2019 Spring Symposium on Combining Machine Learning with Knowledge Engineering (AAAI-MAKE 2019). Stanford University, Palo Alto, California, USA*. [\[PDF\]](/assets/papers/2019/dexter_aaai_make.pdf)
+
 - **Nihal V. Nayak**, Pratheek Mahishi and Sagar M. Rao. **DEXTER - Data EXTraction & Entity Recognition for Low Resource Datasets**. *In Proceedings of the AAAI 2019 Spring Symposium on Combining Machine Learning with Knowledge Engineering (AAAI-MAKE 2019). Stanford University, Palo Alto, California, USA*. [\[PDF\]](/assets/papers/2019/dexter_aaai_make.pdf)
 
 ### 2018
