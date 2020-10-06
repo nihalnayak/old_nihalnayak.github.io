@@ -13,9 +13,7 @@ Previously, I worked as a NLP Engineer at [Stride.AI](stride.ai). I have also wo
 
 Feel free to get in touch with me.
 
-[short & sweet resume](assets/resume.pdf) (Updated in October, 2020)
-
-[long & probably boring CV](assets/cv.pdf) (Updated in October, 2020)
+[short & sweet resume](assets/resume.pdf) / [long & probably boring CV](assets/cv.pdf) (Updated in October, 2020)
 
 <!-- [Behance](https://www.behance.net/nihalnayak7f59) -->
 
