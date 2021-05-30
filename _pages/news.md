@@ -14,7 +14,7 @@ navigation: true
 
 - March 2019: Our paper **DEXTER - Data EXTraction & Entity Recognition for Low Resource Datasets** was presented at the 2019 AAAI Spring Symposium Series, Stanford University, Palo Alto, USA, 2019 ([link](https://www.aaai-make.info/)). [View PDF](/assets/papers/2019/dexter_aaai_make.pdf)
 
-- December 2018: Our paper **DEXTER - Data EXTraction & Entity Recognition for Low Resource Datasets** has been accepted at the 2019 AAAI Spring Symposium Series, Stanford University, Palo Alto, USA, 2019 ([link](https://www.aaai-make.info/)) -->
+<!-- - December 2018: Our paper **DEXTER - Data EXTraction & Entity Recognition for Low Resource Datasets** has been accepted at the 2019 AAAI Spring Symposium Series, Stanford University, Palo Alto, USA, 2019 ([link](https://www.aaai-make.info/)) -->
 
 - March 2018: Finished 9th in the SLAM(Second Language Acquisition Modeling) 2018 shared task. Our system paper \- **Context Based Approach
 for Second Language Acquisition**([see here](http://sharedtask.duolingo.com/papers/nayak.slam18.pdf)) will be published in [BEA13](https://www.cs.rochester.edu/~tetreaul/naacl-bea13.html) at NAACL-HLT 2018
