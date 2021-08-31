@@ -5,8 +5,6 @@ permalink: /publication/
 avatar: true
 navigation: true
 ---
-## Preprint
-
 ## Publication
 
 ### 2020
