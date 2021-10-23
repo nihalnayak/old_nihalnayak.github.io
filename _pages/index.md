@@ -13,7 +13,7 @@ Previously, I worked as a NLP Engineer at [Stride.AI](stride.ai). I have also wo
 
 Feel free to get in touch with me.
 
-[CV](assets/cv.pdf) (Updated in August, 2021)
+[CV](assets/cv.pdf) (Updated in October, 2021)
 
 [Github](https://github.com/nihalnayak)
 
