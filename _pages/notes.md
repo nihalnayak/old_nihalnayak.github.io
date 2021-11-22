@@ -4,6 +4,7 @@ title: Notes
 permalink: /notes/
 avatar: true
 navigation: true
+order: 5
 ---
 
 ## Notes

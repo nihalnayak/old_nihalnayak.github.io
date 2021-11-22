@@ -1,8 +1,10 @@
 ---
 layout: default
+title: Home
 avatar: true
 permalink: /
-navigation: false
+navigation: true
+order: 1
 ---
 
 Hi, I'm Nihal!

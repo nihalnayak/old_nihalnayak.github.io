@@ -4,6 +4,7 @@ title: News
 permalink: /news/
 avatar: true
 navigation: true
+order: 3
 ---
 
 ## Latest News

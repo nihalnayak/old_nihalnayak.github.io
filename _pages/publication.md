@@ -4,6 +4,7 @@ title: Publication
 permalink: /publication/
 avatar: true
 navigation: true
+order: 2
 ---
 ## Publications
 
