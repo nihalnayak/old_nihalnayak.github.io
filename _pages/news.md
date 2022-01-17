@@ -9,13 +9,15 @@ order: 3
 
 ## Latest News
 
+- January 2022: Our work [TAGLETS](https://github.com/BatsResearch/taglets) was accepted to [MLSys 2022](https://mlsys.org/).
+
 - August 2021: Releasing [code](https://github.com/BatsResearch/zsl-kg) for our paper [Zero-shot learning with common sense knowledge graphs](/assets/papers/nayak-arxiv20.pdf).
 
 - May 2021: Passed my research comprehensive exam. Officially a Ph.D. candidate.
 
 - July 2019: Started Ph.D. in Computer Science at Brown University.
 
-- March 2019: Our paper [DEXTER - Data EXTraction & Entity Recognition for Low Resource Datasets](/assets/papers/nayak-aaai19.pdf) was presented at the 2019 AAAI Spring Symposium Series, Stanford University, Palo Alto, USA, 2019.
+<!-- - March 2019: Our paper [DEXTER - Data EXTraction & Entity Recognition for Low Resource Datasets](/assets/papers/nayak-aaai19.pdf) was presented at the 2019 AAAI Spring Symposium Series, Stanford University, Palo Alto, USA, 2019.
 
 - March 2018: Finished 9th in the SLAM (Second Language Acquisition Modeling) 2018 shared task. Our system paper - [Context Based Approach
 for Second Language Acquisition](assets/papers/nayak-bea18.pdf) will be published in [BEA13](https://www.cs.rochester.edu/~tetreaul/naacl-bea13.html) at NAACL-HLT 2018
@@ -28,4 +30,4 @@ for Second Language Acquisition](assets/papers/nayak-bea18.pdf) will be publishe
 
 - May 2017: Received Best outgoing student from Information Science and Engineering Department, M S Ramaiah Institute of Technology.
 
-- July 2015: Started Interning at Indian Institute of Science, Bangalore under Prof. H S Jamadagni.
+- July 2015: Started Interning at Indian Institute of Science, Bangalore under Prof. H S Jamadagni. -->
