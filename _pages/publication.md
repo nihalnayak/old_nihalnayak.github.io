@@ -8,10 +8,10 @@ order: 2
 ---
 ## Publications
 
-### 2021
+### Preprint
 - Victor Sanh, Albert Webson, Colin Raffel, Stephen H. Bach, Lintang Sutawika, Zaid Alyafeai, Antoine Chaffin, Arnaud Stiegler, Teven Le Scao, Arun Raja, Manan Dey, M Saiful Bari, Canwen Xu, Urmish Thakker, Shanya Sharma, Eliza Szczechla, Taewoon Kim, Gunjan Chhablani, **Nihal Nayak**, Debajyoti Datta, Jonathan Chang, Mike Tian-Jian Jiang, Han Wang, Matteo Manica, Sheng Shen, Zheng Xin Yong, Harshit Pandey, Rachel Bawden, Thomas Wang, Trishala Neeraj, Jos Rozen, Abheesht Sharma,,rea Santilli, Thibault Fevry, Jason Alan Fries, Ryan Teehan, Stella Biderman, Leo Gao, Tali Bers, Thomas Wolf, and Alexander M. Rush **Multitask Prompted Training Enables Zero-Shot Task Generalization**. *arXiv*, 2021 [\[PDF\]](https://arxiv.org/pdf/2110.08207.pdf) [\[Code\]](https://github.com/bigscience-workshop/promptsource)
-
-- Wasu Piriyakulkij, Cristina Menghini, Ross Briden, **Nihal V. Nayak**, Jeffrey Zhu, Elaheh Raisi, and Stephen H. Bach. **TAGLETS: A System for Automatic Semi-Supervised Learning with Auxiliary Data**, *Under Review*, 2021.
+### 2022
+- Wasu Piriyakulkij, Cristina Menghini, Ross Briden, **Nihal V. Nayak**, Jeffrey Zhu, Elaheh Raisi, and Stephen H. Bach. **TAGLETS: A System for Automatic Semi-Supervised Learning with Auxiliary Data**, Conference on Machine Learning and Systems (MLSys), 2022 [\[PDF\]](https://arxiv.org/pdf/2111.04798.pdf) [\[Project\]](https://github.com/BatsResearch/taglets)].
 
 ### 2020
 
